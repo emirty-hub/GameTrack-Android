@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "884179527582",
+    "project_id": "rblxinsider-d39f6",
+    "storage_bucket": "rblxinsider-d39f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884179527582:android:bac9e4e29485c56617d88f",
+        "android_client_info": {
+          "package_name": "com.rblxinsider.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884179527582-sj1vr98js19t6mjk2pamoea28o0ufo0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rblxinsider.app",
+            "certificate_hash": "9aa56f5b3fb171ef061f9b78aa723e6437c342da"
+          }
+        },
+        {
+          "client_id": "884179527582-e8qdl850iohmogr176irdnva3f90pcru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdyouCgQwceqyPKpPZLbeFFAkoLOLeNgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884179527582-e8qdl850iohmogr176irdnva3f90pcru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
